@@ -44,3 +44,4 @@ for r_dot in range(1, number_dot +1):
         tim.forward(500)
         tim.setheading(0)
 ```
+image: assets/Screen Recording 2024-09-16 at 3.20.31 PM.gif
